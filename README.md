@@ -1,5 +1,3 @@
-# Python-Flappy-Bird-Game
-
 # 🐦 Flappy Bird – Professional Pygame Edition
 
 A clean, production-quality reimplementation of Flappy Bird in Python + Pygame.
