@@ -1,5 +1,8 @@
 # 🐦 Flappy Bird – Professional Pygame Edition
 
+<img width="400" height="630" alt="image" src="https://github.com/user-attachments/assets/0ef499f3-afb5-4ef5-8ba8-91425b210896" />
+
+
 A clean, production-quality reimplementation of Flappy Bird in Python + Pygame.
 Zero external assets needed – all graphics and sounds are generated procedurally.
 
